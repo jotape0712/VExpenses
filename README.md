@@ -42,7 +42,6 @@ Um script de inicialização no bloco `user_data` automatiza tarefas, como a atu
 ## Tags
 Várias `tags` foram utilizadas ao longo do código para adicionar metadados aos recursos, facilitando a identificação e organização dentro da AWS.
 
-# Arquivo main.tf modificado
 
 # Descrição Técnica da Tarefa 2
 
