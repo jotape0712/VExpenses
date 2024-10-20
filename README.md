@@ -63,5 +63,5 @@ No código original, todas as portas estavam abertas para entrada de tráfego, o
 Antes, os recursos de rede, como gateways, não tinham regras de controle e roteamento. Implementei regras para controlar o tráfego de saída, garantindo que ele passe por um **Internet Gateway** com rotas explicitamente definidas. Também adicionei **tags** para ajudar na identificação dos recursos.
 
 ## Observação
-Foi necessário remover as **tags** na seção de **Security Group** do código, pois sua presença estava impactando a execução correta do mesmo.
+Adicionei comentarios a cada parte do codigo com objetivo de facilitar o entendimento dos recursos, esses comentários explicam cada parte do código, como a criação de recursos e configuração de segurança. Além disso, foi necessário remover as **tags** na seção de **Security Group** do código, pois sua presença estava impactando a execução correta do mesmo.
 
